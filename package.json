@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/javafullstackD/NodeMongoCrudeAPI#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.1",
-    "mongodb": "^4.7.0"
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.6"
   }
 }
